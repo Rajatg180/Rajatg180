@@ -11,11 +11,11 @@
 
 - Apart from that, I love Sketching, Gaming, Playing cricket and Listening to Music.
 
+
+##  connect with me :
+
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
-<a href="https://twitter.com/rajatgore3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajatgore3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajat gore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat gore" height="30" width="40" /></a>
-</p> -->
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rajat-gore-098088228/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
