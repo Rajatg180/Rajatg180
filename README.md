@@ -45,8 +45,8 @@
 
 ###
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,qt,cpp,mysql,git,figma,react,mui,androidstudio,firebase" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,postgresql,tailwind,next,aws,docker,jenkins,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,git,github,figma,vscode,androidstudio,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,canvas,algorithm" />
 </p>
 
 ###
