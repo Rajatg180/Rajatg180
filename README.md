@@ -7,14 +7,15 @@
 
 - MySelf Rajat Gore a Proficient Flutter Developer and Passionate Problem Solver. Beyond coding, I finds joy in tackling complex challenges, making me a dedicated developer.
 
-- 🌱 I’m currently learning **Web Development**
+- I’m currently learning **Web Development**
 
 - Apart from that, I love Sketching, Gaming, Playing cricket and Listening to Music.
 
 <br>
 <br>
 
-##  connect with me :
+## ![image](https://github.com/Rajatg180/Rajatg180/assets/100464536/926af777-19fb-45c5-9a1e-498b03bb0d36)
+  Connect with me :
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajat-gore-098088228/" target="_blank">
@@ -46,13 +47,10 @@
 ###
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,git,github,figma,vscode,androidstudio,firebase" />
-  <img src="https://skillicons.dev/icons?i=flutter,dart,canvas,algorithm" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,canvas,kotlin" />
 </p>
 
 ###
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatg180&show_icons=true&locale=en&layout=compact" alt="rajatg180" /></p>
 
