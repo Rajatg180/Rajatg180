@@ -4,12 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatg180&label=Profile%20views&color=0e75b6&style=flat" alt="rajatg180" /> </p>
+- MySelf Rajat Gore a Proficient Flutter Developer and Passionate Problem Solver. Beyond coding, I finds joy in tackling complex challenges, making me a dedicated developer.
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **rajatgore1803@gmail.com**
+- Apart from that, I love Sketching, Gaming, Playing cricket and Listening to Music.
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
@@ -24,7 +23,7 @@
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
   <a href="rajatgore1803@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=durgeshmahajan1722@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=rajatgore1803@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/rajat_gore_1803/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -35,6 +34,9 @@
   </a>
   <a href="https://twitter.com/RajatGore3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100086292667949" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
   </a>
 </div>
 
