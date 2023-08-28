@@ -57,7 +57,7 @@
 
 ###
 
-<img src="https://github.com/Rajatg180/Rajatg180/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Rajatg180/Rajatg180/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
