@@ -51,6 +51,10 @@
 
 ###
 
+ <img src="https://github-readme-stats.vercel.app/api?username=Rajatg180&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajatg180&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  /> <br/>
+  <img src="https://streak-stats.demolab.com?user=Rajatg180&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatg180&show_icons=true&locale=en&layout=compact" alt="rajatg180" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatg180&" alt="rajatg180" /></p>
