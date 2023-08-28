@@ -14,8 +14,7 @@
 <br>
 <br>
 
-## ![image](https://github.com/Rajatg180/Rajatg180/assets/100464536/926af777-19fb-45c5-9a1e-498b03bb0d36)
-  Connect with me :
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> Connect with me :
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajat-gore-098088228/" target="_blank">
