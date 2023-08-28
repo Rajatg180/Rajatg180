@@ -11,10 +11,10 @@
 
 - Apart from that, I love Sketching, Gaming, Playing cricket and Listening to Music.
 
+<br>
+<br>
 
 ##  connect with me :
-
-<h3 align="left">Connect with me:</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajat-gore-098088228/" target="_blank">
