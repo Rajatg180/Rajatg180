@@ -58,10 +58,3 @@
 <img src="https://streak-stats.demolab.com?user=Rajatg180&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajatg180&theme=tokyonight">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajatg180&theme=tokyonight"> </br>
-
-###
-
-<img src="https://github.com/Rajatg180/Rajatg180/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
