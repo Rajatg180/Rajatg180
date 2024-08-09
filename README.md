@@ -15,8 +15,7 @@
 - I’m currently Exploring *Devops*
 - Apart from that, I love Sketching, Gaming, Playing cricket and Listening to Music.
 
-<br>
-<br>
+<br/>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> Connect with me 
 
