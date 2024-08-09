@@ -1,20 +1,24 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<div align="center">
+<!--   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /> -->
+<img height="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"  />
+<!--   <img height="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  /> -->
+</div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> , I'm Rajat Gore</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div align="center">
+  
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=50 style="margin-right: 20px"/> A passionate Software developer from India <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=50 style="margin-left: 20px"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatg180&label=Profile%20views&color=0e75b6&style=flat" alt="rajatg180" /> </p>
 
-- MySelf Rajat Gore a Proficient Flutter Developer and Passionate Problem Solver. Beyond coding, I finds joy in tackling complex challenges, making me a dedicated developer.
-
-- I’m currently learning **Web Development**
-
+- MySelf Rajat Gore a Proficient App and Web Developer and a Passionate Problem Solver. Beyond coding, I finds joy in tackling complex challenges, making me a dedicated developer.
+- I’m currently Exploring *Devops*
 - Apart from that, I love Sketching, Gaming, Playing cricket and Listening to Music.
 
 <br>
 <br>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> Connect with me :
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> Connect with me 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajat-gore-098088228/" target="_blank">
@@ -43,12 +47,12 @@
 
 <br/>
 
-## 🔧 Language and tools :
+## 🔧 Language and tools
 
 ###
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,git,github,figma,vscode,androidstudio,firebase,nodejs,express,mongodb" />
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,postman,typescript,react,redux" />
 </p>
 
 ###
