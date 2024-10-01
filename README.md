@@ -26,7 +26,7 @@
   <a href="https://dev.to/rajatg180" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
-  <a href="rajatgore1803@gmail.com" target="_blank">
+  <a href="rajatgore2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=rajatgore1803@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/rajat_gore_1803/" target="_blank">
