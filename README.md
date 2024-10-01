@@ -51,7 +51,7 @@
 ###
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,git,github,figma,vscode,androidstudio,firebase,nodejs,express,mongodb" />
-  <img src="https://skillicons.dev/icons?i=flutter,dart,postman,typescript,react,redux" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,postman,typescript,react,redux,next" />
 </p>
 
 ###
